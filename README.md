@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![baejin1018's GitHub stats](https://github-readme-stats.vercel.app/api?username=baejin1018&theme=buefy&show_icons=true)
 <!--
 **baejin1018/baejin1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
