@@ -1,11 +1,5 @@
 ### Hi there 👋
 ![baejin1018's GitHub stats](https://github-readme-stats.vercel.app/api?username=baejin1018&theme=buefy&show_icons=true)
-<!--
-### Technology Stack📚
-<div align='center'>
-  <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
-  <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><span>
-</div>
 
 **baejin1018/baejin1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
