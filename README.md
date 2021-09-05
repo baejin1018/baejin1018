@@ -1,3 +1,10 @@
+
+<div align = center>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JinYoung&fontSize=80&animation=twinkling&descAlignY=30)
+
+</div>
+
 ![baejin1018's github stats](https://github-readme-stats.vercel.app/api?username=baejin1018&theme=vue&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baejin1018&theme=vue&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 <div align = center>
@@ -20,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
