@@ -14,6 +14,7 @@
 ### 🌱 I’m currently learning 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src ="https://img.shields.io/badge/TypeScript-777BB4?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/></a>
 ### 📞 CONTACT
 <a href="mailto:bae20051018@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bae20051018@gmail.com"/></a>
 
