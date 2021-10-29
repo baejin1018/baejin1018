@@ -13,7 +13,6 @@
 
 ### 🌱 I’m currently learning 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<img src ="https://img.shields.io/badge/TypeScript-777BB4?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/></a>
 
 ### 💡 The language I want to learn 
@@ -22,7 +21,16 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-A86454?style=flat-square&logo=Next.js&logoColor=white"/></a>
-      
+<img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white"/>
+<img src ="https://img.shields.io/badge/TypeScript-777BB4?style=flat-square&logo=TypeScript&logoColor=white"/>
+
+<!--###Tool
+![VSCode](http://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![Git](http://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](http://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Postman](http://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Babel](http://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+  ![Figma](http://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&-->
 ### 📞 CONTACT
 <a href="mailto:bae20051018@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bae20051018@gmail.com"/></a>
 
