@@ -3,7 +3,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JinYoung&fontSize=80&animation=twinkling&descAlignY=30)
 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baejin1018)](https://git.io/streak-stats) 
  
+  
 ![baejin1018's github stats](https://github-readme-stats.vercel.app/api?username=baejin1018&theme=vue&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baejin1018&theme=vue&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 ### Technology Stack📚
