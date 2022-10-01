@@ -1,14 +1,17 @@
 
 <div align = center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JinYoung&fontSize=80&animation=twinkling&descAlignY=30)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JinYoung&fontSize=80&animation=twinkling&descAlignY=30)-->
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baejin1018)](https://git.io/streak-stats) 
  
-  
+ 
+ <a href="mailto:bae20051018@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bae20051018@gmail.com"/>
+  <!--
 ![baejin1018's github stats](https://github-readme-stats.vercel.app/api?username=baejin1018&theme=vue&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baejin1018&theme=vue&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
-### Technology Stack📚
+
+ ### Technology Stack📚
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><span>
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/><span>
@@ -28,9 +31,8 @@
    <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white"/>
 <img src="https://img.shields.io/badge/svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/></a> 
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
-
+-->
 <!-- ### 💡 I want to learn  -->
-
 
 
 
