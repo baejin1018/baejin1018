@@ -3,10 +3,10 @@
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JinYoung&fontSize=80&animation=twinkling&descAlignY=30)-->
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baejin1018)](https://git.io/streak-stats) 
+<!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baejin1018)](https://git.io/streak-stats)  -->
  
  
- <a href="mailto:bae20051018@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bae20051018@gmail.com"/>
+<!--  <a href="mailto:bae20051018@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bae20051018@gmail.com"/> -->
   <!--
 ![baejin1018's github stats](https://github-readme-stats.vercel.app/api?username=baejin1018&theme=vue&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baejin1018&theme=vue&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
@@ -43,8 +43,7 @@
   ![Postman](http://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Babel](http://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
   ![Figma](http://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&-->
-<!-- ### 📞 CONTACT
-<a href="mailto:bae20051018@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bae20051018@gmail.com"/></a> -->
+
 
       
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&section=footer) -->
